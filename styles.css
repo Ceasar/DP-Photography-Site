@@ -1,0 +1,148 @@
+body
+{
+	margin: 0px;
+	padding: 30px;
+	font-family: Verdana, Arial;
+	font-size: 12px;
+}
+
+.gaHeader
+{
+	background-color: #EEEEEE;
+	border-bottom: 1px solid #999999;
+	margin-bottom: 15px;
+}
+
+.dpLogo
+{
+	padding: 5px;
+	padding-left: 10px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.indent
+{
+	padding-left: 1.5%;
+}
+
+.headerBlue
+{
+	font-style: italic;
+	color: #011F5B;
+}
+
+.headerRed
+{
+	font-style: italic;
+	color: #990000;
+	font-weight: bold;
+}
+
+.titleBox
+{
+	padding-left: 10px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.headerTitle
+{
+	color: #990000;
+	font-weight: bold;
+	font-size: 12pt;
+	font-family: ITC Franklin Gothic, Verdana, Arial;
+}
+
+.headerPage
+{
+	color: #000000;
+	font-size: 12pt;
+	font-family: ITC Franklin Gothic, Verdana, Arial;
+}
+
+.storyPageHeader
+{
+	margin-bottom: 15px;
+	color: #990000;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.navBox
+{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+a.navItem
+{
+	color: #990000;
+	text-decoration: none
+}
+
+a.navItem:hover
+{
+	text-decoration: underline;
+}
+
+/*******************/
+
+.storyBox
+{
+	border: 1px solid #999999;
+	margin: 10px;
+}
+
+.storyTitle
+{
+	padding: 5px;
+	background-color: #990000;
+	color: #FFFFFF;
+	border-bottom: 1px solid #999999;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+.storyActions
+{
+	font-weight: bold;
+	padding: 5px;
+	background-color: #EEEEEE;
+	border-bottom: 1px solid #999999;
+	font-size: 90%;
+}
+
+.actionLink
+{
+	color: #000000;
+}
+
+.storyData
+{
+	padding: 5px;
+	font-size: 90%;
+}
+
+.storyDataPassword
+{
+	padding: 5px;
+	background-color: #E9C2A6;
+}
+
+.storyInfoLabel
+{
+	color: #011F5B;
+	font-weight: bold;
+}
+
+.storyInfoText
+{
+	color: #666666;
+}
+
+.storyDescription
+{
+	margin-top: 5px;
+}
